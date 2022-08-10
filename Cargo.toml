@@ -14,5 +14,5 @@ rand = "0.8.3"
 criterion = "0.3"
 
 [[bench]]
-name = "part_vector_length.rs"
+name = "part_lr_diff"
 harness = false
